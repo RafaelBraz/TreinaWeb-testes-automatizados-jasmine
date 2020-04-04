@@ -1,0 +1,16 @@
+{
+  "name": "testes-automatizados-jasmine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "start": "nodemon --exec jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.5.0",
+    "nodemon": "^2.0.2"
+  }
+}
